@@ -1,6 +1,6 @@
 <h1 align="center"> Spot </h1> <br>
 <p align="center">
-  <img alt="Spot" title="Spot" src="https://i.imgur.com/OJ00zy7.png" width="200">
+  <img alt="logo" title="logo" src="https://i.imgur.com/i8VpW6P.png" width="180">
 </p>
 <br>
 
@@ -26,7 +26,7 @@ Spot lets you find charge points near you, view relevant information, and get li
 **UK only.**
 
 <p align="center">
-  <img alt="Spot" title="Spot" src="https://i.imgur.com/uXaECAL.png" width="900">
+  <img alt="screens" title="screens" src="https://i.imgur.com/5YrG1Zs.png" width="900">
 </p>
 
 ## Features
