@@ -102,9 +102,9 @@ For more information, please refer to the Contributing section.
 ## Contributing
 
 Thank you for thinking of contributing to this project.
-Your contributions are always welcome! 
+Contributions are always welcome! 
 
-Please feel free to take on any issue that's currently open. Feel free to resolve any issue that you would enjoy working on even if it happens to be a low priority.
+Feel free to take on any issue that's currently open and resolve any that you would enjoy working on, even if it happens to be low priority.
 
 ## License
 
