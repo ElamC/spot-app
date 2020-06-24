@@ -12,7 +12,6 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
 - [Packages](#packages)
 - [Pull Request](#pull-request)
 - [Contributing](#contributing)
@@ -27,15 +26,6 @@ Spot lets you find charge points near you, view relevant information, and get li
 <p align="center">
   <img alt="screens" title="screens" src="https://i.imgur.com/5YrG1Zs.png" width="900">
 </p>
-
-## Features
-
-A few of the things you can do with Spot:
-
-* Find charging points near you
-* View point information
-* Get live directions
-* Update results based on location
 
 
 ## Packages
