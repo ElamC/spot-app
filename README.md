@@ -1,6 +1,6 @@
-<h1 align="center"> Spot </h1> <br>
+
 <p align="center">
-  <img alt="logo" title="logo" src="https://i.imgur.com/i8VpW6P.png" width="180">
+  <img alt="logo" title="logo" src="https://i.imgur.com/i8VpW6P.png" width="150">
 </p>
 <br>
 
@@ -22,8 +22,7 @@
 
 Spot lets you find charge points near you, view relevant information, and get live directions. Built with React Native, using  data from [openchargemap](https://openchargemap.org/site).
 
-**Only on iOS.**
-**UK only.**
+**Tested on iOS only.**
 
 <p align="center">
   <img alt="screens" title="screens" src="https://i.imgur.com/5YrG1Zs.png" width="900">
