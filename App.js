@@ -159,6 +159,7 @@ export default class App extends Component {
     return <MapView.Animated
       style={styles.map}
       provider={PROVIDER_GOOGLE}
+      showsUserLocation={true} 
       customMapStyle={mapStyle}
       ref={ref => { this.map = ref; }}
       initialRegion={{
