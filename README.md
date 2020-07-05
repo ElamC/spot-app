@@ -35,20 +35,20 @@ Spot is open source, so you can create a pull request after fixing any issues. P
 Fork `master` branch into your personal repository and clone to local machine. From your command line:
 
 ```sh
-# Clone this repository
+# clone this repository
 $ git clone https://github.com/ElamC/Spot.git
 
-# Go into the repository
-$ cd Spot
+# go into the repository
+$ cd spot-app
 
-# Install dependencies
+# install dependencies
 $ npm install
 
-# Initialize Podfile
+# initialize podfile
 $ cd ios
 $ pod install
 
-# Return to root directory
+# return to root directory
 $ cd ../
 ```
 
@@ -61,7 +61,7 @@ To enable Google Maps on iOS, obtain an API key from [Maps SDK for iOS](https://
 
 ```dosini
 # replace KEY with your Google API key
-# Copy and rename this file to '.env'
+# copy and rename this file to '.env'
 
 GOOGLE_API_KEY=KEY
 ```
@@ -85,7 +85,6 @@ For more information, please refer to the Contributing section.
 
 ## Contributing
 
-Thank you for thinking of contributing to this project.
 Contributions are always welcome! 
 
 Feel free to take on any issue that's currently open and resolve any that you would enjoy working on, even if it happens to be low priority.
