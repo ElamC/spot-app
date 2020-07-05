@@ -4,15 +4,12 @@
 </p>
 <br>
 
-<p align="center">
-  Finding charge points, made easy. Built with React Native.
-</p>
+
 
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Packages](#packages)
 - [Pull Request](#pull-request)
 - [Contributing](#contributing)
 - [License](#license)
@@ -26,19 +23,6 @@ Spot lets you find charge points near you, view relevant information, and get li
 <p align="center">
   <img alt="screens" title="screens" src="https://i.imgur.com/5YrG1Zs.png" width="900">
 </p>
-
-
-## Packages
-
-| Name | Description |
-| --- | --- |
-| [`@react-native-modal`](https://github.com/react-native-community/react-native-modal) | Customizable React Native modal |
-| [`@react-native-navigation-directions`](https://github.com/laki944/react-native-navigation-directions) | Open default maps app with directions |
-| [`@react-native-maps`](https://github.com/react-native-community/react-native-maps) | React Native Mapview component |
-| [`@react-native-get-location`](https://github.com/douglasjunior/react-native-get-location) | Get native device location |
-| [`@react-native-public-ip`](https://github.com/teamairship/react-native-public-ip) | Get public IP address |
-| [`@react-native-splash-screen`](https://github.com/crazycodeboy/react-native-splash-screen) | Splash screen for React Native |
-| [`@npm-check`](https://github.com/dylang/npm-check) | Check dependencies |
 
 
 ## Pull Request
