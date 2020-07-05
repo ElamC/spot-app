@@ -36,7 +36,7 @@ Fork `master` branch into your personal repository and clone to local machine. F
 
 ```sh
 # clone this repository
-$ git clone https://github.com/ElamC/Spot.git
+$ git clone https://github.com/ElamC/spot-app.git
 
 # go into the repository
 $ cd spot-app
@@ -55,7 +55,7 @@ $ cd ../
 
 ### Usage
 
-#### Google Maps SDK
+#### Google Maps API
 To enable Google Maps on iOS, obtain an API key from [Maps SDK for iOS](https://developers.google.com/maps/documentation/ios-sdk/get-api-key), and edit your .env.example file as follows:
 
 
