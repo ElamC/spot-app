@@ -87,7 +87,7 @@ For more information, please refer to the Contributing section.
 
 Contributions are always welcome! 
 
-Feel free to take on any issue that's currently open and resolve any that you would enjoy working on, even if it happens to be low priority.
+Feel free to take on any issue that's currently open. 
 
 ## License
 
