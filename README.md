@@ -5,17 +5,6 @@
 <br>
 
 
-
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Pull Request](#pull-request)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
 Spot lets you find charge points near you, view relevant information, and get live directions. Built with React Native, using  data from [openchargemap](https://openchargemap.org/site).
 
 **Tested on iOS only.**
@@ -25,9 +14,8 @@ Spot lets you find charge points near you, view relevant information, and get li
 </p>
 
 
-## Pull Request
-
-Spot is open source, so you can create a pull request after fixing any issues. Please follow the steps below in order to start development.
+## Development
+Please follow the steps below in order to start development.
 
 
 ### Setup
