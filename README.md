@@ -15,7 +15,7 @@ Spot lets you find charge points near you, view relevant information, and get li
 
 
 ## Development
-Please follow the steps below in order to start development.
+Please follow the steps below.
 
 
 ### Setup
