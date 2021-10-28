@@ -67,15 +67,10 @@ $ npm-check -y
 $ react-native run-ios
 ```
 
-Before creating a pull request, test and check for any errors. If there are no errors, commit and push.
-
-For more information, please refer to the Contributing section.
 
 ## Contributing
 
-Contributions are always welcome! 
-
-Feel free to take on any issue that's currently open. 
+This project is now archived, but contributions are welcome!
 
 ## License
 
