@@ -1,16 +1,15 @@
-
 <p align="center">
-  <img alt="logo" title="logo" src="https://i.imgur.com/i8VpW6P.png" width="150">
+  <img alt="logo" title="logo" src="https://i.imgur.com/i8VpW6P.png" width="120">
 </p>
 <br>
 
+Spot lets you find EV charge points near you, view relevant information, and get live directions. Built with React Native, using  data from [openchargemap](https://openchargemap.org/site).
 
-Spot lets you find charge points near you, view relevant information, and get live directions. Built with React Native, using  data from [openchargemap](https://openchargemap.org/site).
+![maintenance-status](https://img.shields.io/badge/maintenance-deprecated-red.svg)
 
-**Tested on iOS only.**
 
 <p align="center">
-  <img alt="screens" title="screens" src="https://i.imgur.com/5YrG1Zs.png" width="900">
+  <img alt="screens" title="screens" src="https://i.imgur.com/5YrG1Zs.png" width="800">
 </p>
 
 
