@@ -1,31 +1,25 @@
 <p align="center">
-  <img alt="logo" title="logo" src="https://i.imgur.com/i8VpW6P.png" width="120">
+  <img alt="logo" title="logo" src="https://i.imgur.com/i8VpW6P.png" width="100">
 </p>
 <br>
 
-Spot lets you find EV charge points near you, view relevant information, and get live directions. Built with React Native, using  data from [openchargemap](https://openchargemap.org/site).
+Find and view EV charge points near you. Built with React Native, using  data from [openchargemap](https://openchargemap.org/site).
 
 ![maintenance-status](https://img.shields.io/badge/maintenance-deprecated-red.svg)
 
 
 <p align="center">
-  <img alt="screens" title="screens" src="https://i.imgur.com/5YrG1Zs.png" width="800">
+  <img alt="screens" title="screens" src="https://i.imgur.com/5YrG1Zs.png" width="700">
 </p>
 
 
 ## Development
-Please follow the steps below.
-
 
 ### Setup
 
-Fork `master` branch into your personal repository and clone to local machine. From your command line:
-
 ```sh
 # clone this repository
-$ git clone https://github.com/ElamC/spot-app.git
-
-# go into the repository
+$ git clone https://github.com/ElamC/spot-deprecated.git
 $ cd spot-app
 
 # install dependencies
@@ -69,7 +63,7 @@ $ react-native run-ios
 
 ## Contributing
 
-This project is now archived, but contributions are welcome!
+This project is now archived.
 
 ## License
 
