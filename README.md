@@ -1,8 +1,3 @@
-<p align="center">
-  <img alt="logo" title="logo" src="https://i.imgur.com/i8VpW6P.png" width="100">
-</p>
-<br>
-
 Find and view EV charge points near you. Built with React Native, using  data from [openchargemap](https://openchargemap.org/site).
 
 ![maintenance-status](https://img.shields.io/badge/maintenance-deprecated-red.svg)
@@ -19,7 +14,7 @@ Find and view EV charge points near you. Built with React Native, using  data fr
 
 ```sh
 # clone this repository
-$ git clone https://github.com/ElamC/spot-deprecated.git
+$ git clone https://github.com/ElamC/spot-app.git
 $ cd spot-app
 
 # install dependencies
@@ -59,11 +54,6 @@ $ npm-check -y
 ``` sh
 $ react-native run-ios
 ```
-
-
-## Contributing
-
-This project is now archived.
 
 ## License
 
