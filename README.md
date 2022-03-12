@@ -42,22 +42,13 @@ To enable Google Maps on iOS, obtain an API key from [Maps SDK for iOS](https://
 GOOGLE_API_KEY=KEY
 ```
 
-
-#### Package update
+#### Update & run project on ios simulator
 
 ``` sh
 $ npm-check -y
-```
-
-#### Run project on ios simulator
-
-``` sh
 $ react-native run-ios
 ```
 
 ## License
-
-[(Back to top)](#table-of-contents)
-
 
 The MIT License (MIT) 2017 - [Athitya Kumar](https://github.com/athityakumar/). Please have a look at the [LICENSE.md](LICENSE.md) for more details.
