@@ -1,14 +1,7 @@
-Find and view EV charge points near you. Built with React Native, using  data from [openchargemap](https://openchargemap.org/site).
-
-![maintenance-status](https://img.shields.io/badge/maintenance-deprecated-red.svg)
-
-
 <p align="center">
   <img alt="screens" title="screens" src="https://i.imgur.com/5YrG1Zs.png" width="700">
 </p>
 
-
-## Development
 
 ### Setup
 
@@ -48,7 +41,3 @@ GOOGLE_API_KEY=KEY
 $ npm-check -y
 $ react-native run-ios
 ```
-
-## License
-
-The MIT License (MIT) 2017 - [Athitya Kumar](https://github.com/athityakumar/). Please have a look at the [LICENSE.md](LICENSE.md) for more details.
